@@ -63,4 +63,5 @@ public class Subsequence {
             throw new IllegalArgumentException();
         }
     }
+
 }
